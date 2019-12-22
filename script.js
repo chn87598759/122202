@@ -6,8 +6,7 @@ var config = {
     databaseURL: "https://project-4549069553915091068.firebaseio.com",
     projectId: "project-4549069553915091068",
     storageBucket: "project-4549069553915091068.appspot.com",
-    messagingSenderId: "951960983851"
-};
+    messagingSenderId: "951960983851"};
 firebase.initializeApp(config);
 
 //create firebase database reference
